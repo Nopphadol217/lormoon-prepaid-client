@@ -1,5 +1,6 @@
 # React + Vite
 
+create By Nopphadol Saipakdee
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -12,3 +13,5 @@ how to run client
 1.cd client [use yarn] run: yarn dev
 2.API slipok expiration 
 3.Backend don't working
+
+create By Nopphadol Saipakdee
