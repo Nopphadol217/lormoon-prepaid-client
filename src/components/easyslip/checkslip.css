@@ -1,0 +1,17 @@
+.bg-gradient-animated {
+    background: linear-gradient(45deg, #1e40af, #79aff1, #5e81f4,#4a1bf2);  /* from-blue-800 to-blue-300 colors */
+    background-size: 400% 400%;  /* Adjusted size for smoother effect */
+    animation: gradientAnimation 10s ease infinite;
+  }
+
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
